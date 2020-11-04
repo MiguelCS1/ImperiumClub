@@ -1,0 +1,79 @@
+[
+          {
+            "bairro": "Moema",
+            "cidade": "São Paulo",
+            "endereco": "Rua Tuim",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/loja_moema_pavao.png?alt=media&token=acadb4a1-9fc7-41b7-bbae-92dc59f652f6",
+            "numero": "858",
+            "razaoSocial": "Loja Moema/Pavão",
+            "telefone": "(11) 5042-3526",
+            "uf": "SP",
+            "id": 4
+          },
+          {
+            "bairro": "Bosque da Saúde",
+            "cidade": "São Paulo",
+            "endereco": "Av. Professor Abraão de Moraes",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/loja_bosque_da_saude.png?alt=media&token=0d1912ef-2aee-447c-b187-883e5eb55259",
+            "numero": "283",
+            "razaoSocial": "Loja B. da Saúde",
+            "telefone": "(11) 3532-1341",
+            "uf": "SP",
+            "id": 7
+          },
+		  {
+            "bairro": "Saúde",
+            "cidade": "São Paulo",
+            "endereco": "Av. do Cursino",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/loja_banner.png?alt=media&token=cba9eb4e-bd89-4401-9c63-aabf749d3810",
+            "numero": "2419",
+            "razaoSocial": "Loja Saúde",
+            "telefone": "(11) 2532-7001",
+            "uf": "SP",
+            "id": 3
+          },
+		  {
+            "bairro": "Aclimação",
+            "cidade": "São Paulo",
+            "endereco": "Av. Turmalina",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/loja_aclimacao.png?alt=media&token=a5213b0e-8949-4be4-b5dd-dc6cdbf5b256",
+            "numero": "120",
+            "razaoSocial": "Loja Aclimação",
+            "telefone": "(11) 3207-3539",
+            "uf": "SP",
+            "id": 6
+          },
+		  {
+            "bairro": "Moema",
+            "cidade": "São Paulo",
+            "endereco": "Rua Tuim",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/loja_moema.png?alt=media&token=246ca901-73a4-44d5-9cf3-bab9c9ff669b",
+            "numero": "915",
+            "razaoSocial": "Loja Moema",
+            "telefone": "(11) 5536-9941",
+            "uf": "SP",
+            "id": 2
+          },
+		  {
+            "bairro": "Saúde",
+            "cidade": "São Paulo",
+            "endereco": "Alameda dos Guatás",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/loja_guatas.png?alt=media&token=e26886a1-0be2-4a10-819d-0fd5c5b63488",
+            "numero": "589",
+            "razaoSocial": "Loja Guatás",
+            "telefone": "(11) 5587-1488",
+            "uf": "SP",
+            "id": 1
+          },
+		  {
+            "bairro": "Vila Moraes",
+            "cidade": "São Paulo",
+            "endereco": "Av do Cursino",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/loja_vila_moraes.png?alt=media&token=53db68e4-f7f7-4b9b-9863-67209917852f",
+            "numero": "3731",
+            "razaoSocial": "Loja V Moraes",
+            "telefone": "(11) 2638-7880",
+            "uf": "SP",
+            "id": 5
+          }
+        ]

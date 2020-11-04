@@ -1,0 +1,277 @@
+[
+{
+            "descricao": "ENERGETICO RED BULL 250ML",
+            "descricao_resumida": "RED BULL LATA 250ML",
+            "favorito": false,
+            "foto_url": "https://images-shoptime.b2w.io/produtos/01/00/sku/16006/2/16006271_1GG.jpg",
+            "grupo_id": 2,
+            "id": 8674,
+            "info": "260ml",
+            "preco": 8.49,
+            "preco_promocao": 0.0
+          },
+          {
+            "descricao": "BOVINO PALETA kg",
+            "descricao_resumida": "BOVINO PALETA kg",
+            "favorito": false,
+            "foto_url": "https://ibassets.com.br/ib.item.image.big/b-e7ffbbeb3b2f4f8581a779554e95f382.jpeg",
+            "grupo_id": 3,
+            "id": 1308,
+			"info": "1kg",
+            "preco": 16.9,
+            "preco_promocao": 15.7 
+          },
+		  {
+            "descricao": "BISNAGA kg",
+            "descricao_resumida": "BISNAGA kg",
+            "favorito": false,
+            "foto_url": "https://i.pinimg.com/originals/80/4d/d5/804dd578dbcd565e59d406e31676c1d0.jpg",
+            "grupo_id": 4,
+            "id": 1196,
+			"info": "",
+            "preco": 14.5,
+            "preco_promocao": 0.0
+          },
+		  {
+            "descricao": "CR.DENTAL COLGATE 70G TOTAL 12 PROF.GUM HEALTH",
+            "descricao_resumida": "C.DEN.COLG.70G T.12",
+            "favorito": false,
+            "foto_url": "https://www.farmagora.com.br/BACKOFFICE/Uploads/Produto/Ampliada/55832.jpg",
+            "grupo_id": 1,
+            "id": 51,
+			"info": "70g",
+            "preco": 6.79,
+            "preco_promocao": 5.95 
+          },
+		  {
+            "descricao": "UVA NIAGARA kg",
+            "descricao_resumida": "UVA NIAGARA kg",
+            "favorito": false,
+            "foto_url": "https://statics.angeloni.com.br/super/files/produtos/223700/223700_1_zoom.jpg",
+            "grupo_id": 5,
+            "id": 1145,
+			"info": "",
+            "preco": 9.69,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "VINHO SANTA FELICIDADE DIV.720ML",
+            "descricao_resumida": "VINHO STA.FELICIDADE",
+            "favorito": false,
+            "foto_url": "https://http2.mlstatic.com/D_NQ_NP_717030-MLB32662411030_102019-V.jpg",
+            "grupo_id": 2,
+            "id": 1420,
+			"info": "",
+            "preco": 9.29,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "ESPETO DE CORACAO DE FRANGO kg",
+            "descricao_resumida": "ESP.CORACAO FRANG.kg",
+            "favorito": false,
+            "foto_url": "https://apucarana.cidadecancao.com/media/catalog/product/cache/1/image/420x565/9df78eab33525d08d6e5fb8d27136e95/e/s/espetinho_scc_coracao_frango_temperada_resfriada_kg_61612.jpg.jpg",
+            "grupo_id": 3,
+            "id": 1117,
+			"info": "",
+            "preco": 32.9,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "GEL FIXADOR MEGAFIX 500G",
+            "descricao_resumida": "GEL FEX.MEGAFIX 500G",
+            "favorito": false,
+            "foto_url": "https://images-americanas.b2w.io/produtos/01/00/sku/42715/6/42715678_1SZ.jpg",
+            "grupo_id": 1,
+            "id": 439,
+			"info": "500g",
+            "preco": 5.8,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "VINHO BARON D ARIGNAC 750ML ROUGE MOELLEUX",
+            "descricao_resumida": "VINHO BARON D AR.750",
+            "favorito": false,
+            "foto_url": "https://www.vinhobr.com.br/produtos/25365_1.jpg",
+            "grupo_id": 2,
+            "id": 8954,
+			"info": "750ml",
+            "preco": 17.49,
+            "preco_promocao": 16.0 
+          },
+		  {
+            "descricao": "MELAO kg",
+            "descricao_resumida": "MELAO kg",
+            "favorito": false,
+            "foto_url": "https://images.zonasul.com.br/imagem1000X1000/2016229_2282a.jpg",
+            "grupo_id": 5,
+            "id": 1139,
+			"info": "",
+            "preco": 4.29,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "BISCOITO PADARIA kg",
+            "descricao_resumida": "BISCOITO PADARIA kg",
+            "favorito": false,
+            "foto_url": "https://cdn.irmaospatrocinio.com.br/img/p/1/5/6/8/4/9/156849-large_default.jpg",
+            "grupo_id": 4,
+            "id": 1156,
+			"info": "",
+            "preco": 23.9,
+            "preco_promocao": 21.9 
+          },
+		  {
+            "descricao": "SABONETE TRICOFACIL 2L DIVERSOS",
+            "descricao_resumida": "SAB.TRICOFACIL 2L DI",
+            "favorito": false,
+            "foto_url": "https://static.carrefour.com.br/medias/sys_master/images/images/h65/h4c/h00/h00/14971908915230.jpg",
+            "grupo_id": 1,
+            "id": 152,
+			"info": "",
+            "preco": 13.65,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "BOVINO STROGONOFF kg",
+            "descricao_resumida": "STROGONOFF BOV.kg",
+            "favorito": false,
+            "foto_url": "https://www.makinbrasil.com.br/uploads/_produtos/1ba0c0878cf200f7b912bd361a919b5e.jpg",
+            "grupo_id": 3,
+            "id": 1317,
+			"info": "",
+            "preco": 30.9,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "BOVINO COSTELA kg",
+            "descricao_resumida": "BOVINO COSTELA kg",
+            "favorito": false,
+            "foto_url": "https://muffatosupermercados.vteximg.com.br/arquivos/ids/241477-400-400/0000000095488.jpg",
+            "grupo_id": 3,
+            "id": 1346,
+			"info": "",
+            "preco": 12.9,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "LIMA DA PERSIA kg",
+            "descricao_resumida": "LIMA DA PERSIA kg",
+            "favorito": false,
+            "foto_url": "https://static-images.ifood.com.br/shop/fotos/lima-da-persia-1-0-kg-52230-1558469169031.jpg",
+            "grupo_id": 5,
+            "id": 708,
+			"info": "1kg",
+            "preco": 4.99,
+            "preco_promocao": 4.49
+          },
+		  {
+            "descricao": "BOVINO PONTA DE ALCATRA kg",
+            "descricao_resumida": "PONTA DE ALCATRA kg",
+            "favorito": false,
+            "foto_url": "https://coopsp.vteximg.com.br/arquivos/ids/184157-604-604/5850.jpg",
+            "grupo_id": 3,
+            "id": 1198,
+			"info": "",
+            "preco": 22.9,
+            "preco_promocao": 20.5 
+          },
+		  {
+            "descricao": "WHISKY BUCHANAN S 1L"
+            "descricao_resumida": "WHISKY BUCHANANS 1L"
+            "favorito": false,
+            "foto_url": "https://images-americanas.b2w.io/produtos/01/00/img/7969/6/7969688_1GG.jpg"
+            "grupo_id": 2,
+            "id": 8141,
+			"info": "",
+            "preco": 199.8
+            "preco_promocao": 180.1 
+          },
+		  {
+            "descricao": "BOVINO QUARTO TRASEIRO C OSSO kg",
+            "descricao_resumida": "BOV.QUARTO TRAS. C O",
+            "favorito": false,
+            "foto_url": "https://casafiesta.fbitsstatic.net/img/p/alcatra-bovina-miolo-pedaco-kg-63460/230318.jpg",
+            "grupo_id": 3,
+            "id": 400,
+			"info": "",
+            "preco": 11.85,
+            "preco_promocao": 0.0 
+          },
+		  {
+            "descricao": "VODKA SKARLOFF ICE LIMAO 275ML",
+            "descricao_resumida": "VOD.SK.ICE.LIMAO.275",
+            "favorito": false,
+            "foto_url": "https://img.sitemercado.com.br/produtos/8082a3bb7171205fe62045dc17d921f21393d5c062bb2641f3cfffd90002f334_full.jpg",
+            "grupo_id": 2,
+            "id": 3523,
+			"info": "",
+            "preco": 2.85,
+            "preco_promocao": 2.05 
+          },
+		  {
+            "descricao": "MELANCIA BABY kg",
+            "descricao_resumida": "MELANCIA BABY kg",
+            "favorito": false,
+            "foto_url": "https://redecompras-img.azureedge.net/product/4178-melancia-baby-ssemente-kg-g.jpg",
+            "grupo_id": 5,
+            "id": 188,
+			"info": "1kg",
+            "preco": 4.99,
+            "preco_promocao": 4.49
+          },
+		  {
+            "descricao": "BOV.PICANHA kg B.ANGUS",
+            "descricao_resumida": "BOV.PICANHA kg B.ANGUS",
+            "favorito": false,
+            "foto_url": "https://statics.angeloni.com.br/super/files/produtos/3197699/3197699_1_medium.jpg",
+            "grupo_id": 3,
+            "id": 1366,
+			"info": "",
+            "preco": 88.9,
+            "preco_promocao": 0.0
+          },
+		  {
+            "descricao": "MANDIOCA kg",
+            "descricao_resumida": "MANDIOCA kg",
+            "favorito": false,
+            "foto_url": "https://supercatalaoonline.com.br/uploads/images/thumbs/mandioca-100-gr-01-09-2018-12-54-870-270.png",
+            "grupo_id": 5,
+            "id": 1125,
+			"info": "",
+            "preco": 2.49,
+            "preco_promocao": 0.0
+          },
+		  {
+            "descricao": "MANGA TOMMY kg",
+            "descricao_resumida": "MANGA TOMMY kg",
+            "favorito": false,
+            "foto_url": "https://muffatosupermercados.vteximg.com.br/arquivos/ids/246518-400-400/0000000001168-.jpg",
+            "grupo_id": 5,
+            "id": 1130,
+			"info": "",
+            "preco": 3.99,
+            "preco_promocao": 0.0
+          },
+		  {
+            "descricao": "BLANQUET DE PERU SADIA LIGHT kg",
+            "descricao_resumida": "BLANQ.PERU SADIA kg",
+            "favorito": false,
+            "foto_url": "https://apucarana.cidadecancao.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/l/blanquet-peru-sadia-fatiado-grande-kg-39352.jpg.jpg",
+            "grupo_id": 3,
+            "id": 1197,
+			"info": "",
+            "preco": 39.9,
+            "preco_promocao": 0.0
+          },
+		  {
+            "descricao": "NECTARINA NACIONAL kg",
+            "descricao_resumida": "NECTARINA NACION.kg",
+            "favorito": false,
+            "foto_url": "https://ibassets.com.br/ib.item.image.big/b-4ccae23e22054dc7a187ec29571112a1.jpeg",
+            "grupo_id": 5,
+            "id": 1199,
+			"info": "",
+            "preco": 5.65,
+            "preco_promocao": 0.0
+          }
+]

@@ -1,0 +1,35 @@
+[
+          {
+            "bairro": "Castelo",
+            "cidade": "Batatais",
+            "endereco": "Av. Dr. Amador de Barros",
+            "fotoUrl": "https://realsupermercados.com.br/imgs/loja-01.png",
+            "numero": "1265",
+            "razaoSocial": "Loja 2",
+            "telefone": "(16) 3761-9000 | Opção: 2",
+            "uf": "SP",
+            "id": 3
+          },
+          {
+            "bairro": "Riachuelo",
+            "cidade": "Batatais",
+            "endereco": "Rua Paraná",
+            "fotoUrl": "https://realsupermercados.com.br/imgs/loja-02.png",
+            "numero": "201",
+            "razaoSocial": "Loja 1",
+            "telefone": "(16) 3761-9000 | Opção: 1",
+            "uf": "SP",
+            "id": 2
+          },
+		  {
+            "bairro": "Centro",
+            "cidade": "Batatais",
+            "endereco": "Av. Pref. Geraldo Marinheiro",
+            "fotoUrl": "https://realsupermercados.com.br/imgs/loja-03.png",
+            "numero": "69",
+            "razaoSocial": "Loja 3",
+            "telefone": "(16) 3761-9000 | Opção: 3",
+            "uf": "SP",
+            "id": 1
+          }
+        ]

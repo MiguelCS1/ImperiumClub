@@ -1,0 +1,63 @@
+{
+  "limiteDeCheque": 0.00,
+  "limiteTotal": 3500.00,
+  "totalDisponivel": 2401.32,
+  "totalUtilizado": 1098.68,
+  "valorEmAberto": 1098.68,
+  "valorPago": 0.00,
+  "endereco": {
+          "bairro": "Padre Réus",
+          "cep": "94198734",
+          "cidade": "Gravataí/RS",
+          "complemento": "",
+          "cpf": "70585344205",
+          "endereco": "Travessa Santino Pereira, 255",
+          "nome": "ELZA CATARINA DA ROCHA",
+          "rg": "26104835 1"
+          "telefone": "1637918474"
+        },        
+        "itens": [
+          {
+            "dataCompra": "2019-11-05T00:00:00Z",
+            "dataVencimento": "2019-12-10T00:00:00Z",
+            "loja": "LOJA 1",
+            "numeroCompra": 66002,
+            "valor": 37.12
+          },
+          {
+            "dataCompra": "2019-11-07T00:00:00Z",
+            "dataVencimento": "2019-12-14T00:00:00Z",
+            "loja": "LOJA 1",
+            "numeroCompra": 66059,
+            "valor": 18.6
+          },
+		  {
+            "dataCompra": "2019-11-11T00:00:00Z",
+            "dataVencimento": "2019-12-09T00:00:00Z",
+            "loja": "LOJA 2",
+            "numeroCompra": 66591,
+            "valor": 64.89
+          },
+		  {
+            "dataCompra": "2019-11-14T00:00:00Z",
+            "dataVencimento": "2019-12-13T00:00:00Z",
+            "loja": "LOJA 4",
+            "numeroCompra": 204828,
+            "valor": 44.58
+          },
+		  {
+            "dataCompra": "2019-11-17T00:00:00Z",
+            "dataVencimento": "2019-12-13T00:00:00Z",
+            "loja": "LOJA 2",
+            "numeroCompra": 205682,
+            "valor": 4.5
+          },
+		  {
+            "dataCompra": "2019-11-01T00:00:00Z",
+            "dataVencimento": "2019-12-10T00:00:00Z",
+            "loja": "LOJA 2",
+            "numeroCompra": 166478,
+            "valor": 27.37
+          }
+        ]
+}

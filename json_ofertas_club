@@ -1,0 +1,152 @@
+[
+	{
+  "descricao": "Ofertas do Clube",
+  "id": 1,
+        "itens": [
+          {
+            "descricao": "ARROZ PANELA DE FERRO 5kg TIPO 1",
+            "descricao_resumida": "ARROZ PANELA FERRO 5",
+            "favorito": false,
+            "foto_url": "https://pierimonline.com.br/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/img_base/prodid32858/2308201713303932858.jpg",
+            "grupo_id": 6,
+            "id": 26860,
+            "info": "",
+            "preco": 13.9,
+            "preco_promocao": 11.45
+          },
+          {
+            "descricao": "LEITE CONDENSADO PIRACANJUBA 395G TP",
+            "descricao_resumida": "L.COND.PIRACAN.395G",
+            "favorito": false,
+            "foto_url": "https://www.concordepr.com.br/shop/media/catalog/product/cache/1/image/e55b6bc748e08d98853cdb0297a71fbc/6/7/6784-fornecedor-direita-leite-condensado-piracanjuba-395g.png",
+            "grupo_id": 7,
+            "id": 28638,
+			"info": "",
+            "preco": 3.29,
+            "preco_promocao": 2.79
+          },
+		  {
+            "descricao": "L-REFRI.COCA COLA 2LT",
+            "descricao_resumida": "L-REFRI.COCA COLA 2LT",
+            "favorito": false,
+            "foto_url": "https://static.carrefour.com.br/medias/sys_master/images/images/h10/h46/h00/h00/12175673655326.jpg",
+            "grupo_id": 8,
+            "id": 33202,
+			"info": "",
+            "preco": 8.0,
+            "preco_promocao": 6.99
+          },
+		  {
+            "descricao": "R.MACARRAO NINHO kg",
+            "descricao_resumida": "R.MACARRAO NINHO kg",
+            "favorito": false,
+            "foto_url": "https://img.sitemercado.com.br/produtos/3109604422dfa76a844d52aa532d632d4ae1b883d7f2673faedfe0397b0fa826_full.jpg",
+            "grupo_id": 9,
+            "id": 7797,
+			"info": "",
+            "preco": 14.9,
+            "preco_promocao": 13.0
+          },
+		  {
+            "descricao": "CR.DENTAL COLGATE 90G TOTAL 12 FRESH ADVANCED",
+            "descricao_resumida": "CR.DENTAL COLG.90G F",
+            "favorito": false,
+            "foto_url": "https://img.drogaraia.com.br/catalog/product/c/r/creme_dental_colgate_total_12_advanced_fresh_90g_7_.jpg",
+            "grupo_id": 1,
+            "id": 12485,
+			"info": "",
+            "preco": 6.79,
+            "preco_promocao": 5.49,
+          }
+        ]
+},
+{
+  "descricao": "Ofertas da Semana",
+  "id": 2,
+        "itens": [
+          {
+            "descricao": "PAO FRANCES kg",
+            "descricao_resumida": "PAO FRANCES kg",
+            "favorito": false,
+            "foto_url": "https://ibassets.com.br/ib.item.image.big/b-2afbeb425c854e16bc7463b58ac1ef9a.jpeg",
+            "grupo_id": 4,
+            "id": 3279,
+            "info": "",
+            "preco": 6.99,
+            "preco_promocao": 5.9
+          },
+          {
+            "descricao": "BATATA MAIS BATATA 2kg BEM BRASIL",
+            "descricao_resumida": "BATATA MAIS BATATA 2kg B",
+            "favorito": false,
+            "foto_url": "https://img.sitemercado.com.br/produtos/50dcfb9bb5a6d34c495a239d0ade5c19872ecc4ffa15cff5ff53cdb1f7c8de17_full.jpg",
+            "grupo_id": 10,
+            "id": 31258,
+			"info": "",
+            "preco": 15.9,
+            "preco_promocao": 14.99
+          },
+		  {
+            "descricao": "BOVINO CAPA DE CONTRA FILE ANGUS kg ESPECIAL",
+            "descricao_resumida": "CAPA CONTRA FILE kg ANGU",
+            "favorito": false,
+            "foto_url": "https://supernossoemcasa.vteximg.com.br/arquivos/ids/191948-292-292/LAGARTO-BOV-PORCNDO-ANGUS-SN-KG-RESFD.jpg",
+            "grupo_id": 3,
+            "id": 38130,
+			"info": "",
+            "preco": 21.9,
+            "preco_promocao": 0.0
+          },
+		  {
+            "descricao": "FARINHA TRIGO CELINA 1kg",
+            "descricao_resumida": "FAR.TRIGO CELINA 1kg",
+            "favorito": false,
+            "foto_url": "https://img.sitemercado.com.br/produtos/d3b87aff87ef9776da5c6a35bc53a5684edf43299d5f12754bab36e184a8b398_full.jpg",
+            "grupo_id": 6,
+            "id": 24537,
+			"info": "",
+            "preco": 2.19,
+            "preco_promocao": 1.5
+          }
+        ]
+},
+{
+  "descricao": "Ofertas Exclusivas",
+  "id": 3,
+        "itens": [
+          {
+            "descricao": "TEMPERO SAZON 60G BRANCO",
+            "descricao_resumida": "TEMP.SAZON.BRANCO 60",
+            "favorito": false,
+            "foto_url": "https://www.sazon.com.br/uploads/images/produtos/TEMPERO_NORDESTE.png_5cd1fd311cf644.98589675.png",
+            "grupo_id": 11,
+            "id": 14242,
+            "info": "",
+            "preco": 3.99,
+            "preco_promocao": 3.35
+          },
+          {
+            "descricao": "CHOC.HERSHEYS REESES 92g 3 UN",
+            "descricao_resumida": "CHOC.HERSHEYS REESES 92g",
+            "favorito": false,
+            "foto_url": "https://http2.mlstatic.com/kit-com-10un-chocolate-hersheys-tablete-meio-amargo-92g-D_NQ_NP_709713-MLB31785279087_082019-F.jpg",
+            "grupo_id": 7,
+            "id": 46719,
+			"info": "",
+            "preco": 4.9,
+            "preco_promocao": 3.79
+          },
+		  {
+            "descricao": "KETCHUP HEINZ 397G PICANTE",
+            "descricao_resumida": "KETCHUP HEINZ 397G P",
+            "favorito": false,
+            "foto_url": "https://supernossoemcasa.vteximg.com.br/arquivos/ids/197991-1000-1000/157456_2.jpg",
+            "grupo_id": 11,
+            "id": 22750,
+			"info": "",
+            "preco": 9.9,
+            "preco_promocao": 8.9
+          }
+        ]
+}
+]

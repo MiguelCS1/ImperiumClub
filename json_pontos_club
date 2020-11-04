@@ -1,0 +1,168 @@
+[
+	{
+  "descricao": "Pontos Resgatados",
+  "id": 3,
+  "subtitulo": "Total Resgatado",
+  "valor": 4530,
+        "itens": [
+          {
+            "dataPontuacao": "2019-11-01T00:00:00Z",
+            "descricao": "Chope Lanchonete Loja 1",
+            "id": 1,
+            "indice": null,
+            "pontos": 475
+          },
+          {
+            "dataPontuacao": "2019-11-01T00:00:00Z",
+            "descricao": "Picanha Suíno Temperada - 8KG",
+            "id": 2,
+            "indice": null,
+            "pontos": 806
+          },
+		  {
+            "dataPontuacao": "2019-11-07T00:00:00Z",
+            "descricao": "Linguiça Toscana - 12 KG",
+            "id": 3,
+            "indice": null,
+            "pontos": 231
+          },
+		  {
+            "dataPontuacao": "2019-11-07T00:00:00Z",
+            "descricao": "Pão de Queijo Aurora 10KG",
+            "id": 4,
+            "indice": null,
+            "pontos": 527
+          },
+		  {
+            "dataPontuacao": "2019-11-07T00:00:00Z",
+            "descricao": "Filé de Bacalhau Gadus - 6KG",
+            "id": 5,
+            "indice": null,
+            "pontos": 1838
+          },
+		  {
+            "dataPontuacao": "2019-11-07T00:00:00Z",
+            "descricao": "Arroz Panela de Ferro - 9KG",
+            "id": 6,
+            "indice": null,
+            "pontos": 380
+          },
+		  {
+            "dataPontuacao": "2019-11-15T00:00:00Z",
+            "descricao": "Refrigerante Coca-Cola - 6 Litros",
+            "id": 7,
+            "indice": null,
+            "pontos": 80
+          },
+		  {
+            "dataPontuacao": "2019-11-15T00:00:00Z",
+            "descricao": "Porçao Batata Lanchonete Real",
+            "id": 8,
+            "indice": null,
+            "pontos": 193,
+			"subtitulo": "Total Resgatado"
+          }
+        ]
+},
+{
+  "descricao": "Pontos Ganhos",
+  "id": 2,
+  "subtitulo": "Total Disponível",
+  "valor": 2063,
+        "itens": [
+          {
+            "dataPontuacao": "2019-11-21T00:00:00Z",
+            "descricao": "Farmácia - Loja 1",
+            "id": 1,
+            "indice": null,
+            "pontos": 316
+          },
+          {
+            "dataPontuacao": "2019-11-19T00:00:00Z",
+            "descricao": "Farmácia - Loja 1",
+            "id": 2,
+            "indice": null,
+            "pontos": 106
+          },
+		  {
+            "dataPontuacao": "2019-11-15T00:00:00Z",
+            "descricao": "Lanche - Lanchonete Loja 3",
+            "id": 3,
+            "indice": null,
+            "pontos": 31
+          },
+		  {
+            "dataPontuacao": "2019-11-12T00:00:00Z",
+            "descricao": "Farmácia - Loja 1",
+            "id": 4,
+            "indice": null,
+            "pontos": 627
+          },
+		  {
+            "dataPontuacao": "2019-11-05T00:00:00Z",
+            "descricao": "Compra - Loja 5",
+            "id": 5,
+            "indice": null,
+            "pontos": 983
+          }
+        ]
+},
+{
+  "descricao": "Pontos A Expirar",
+  "id": 4,
+  "subtitulo": "Total a Expirar",
+  "valor": 240,
+        "itens": [          
+          {
+            "dataPontuacao": "2019-11-30T00:00:00Z",
+            "descricao": null,
+            "id": 1,
+            "indice": null,
+            "pontos": 88
+          },
+		  {
+            "dataPontuacao": "2019-11-31T00:00:00Z",
+            "descricao": null,
+            "id": 2,
+            "indice": null,
+            "pontos": 152
+          }
+        ]
+},
+{
+  "descricao": "Pontos",
+  "id": 1,
+  "subtitulo": "Saldo",
+  "valor": 893,
+        "itens": [          
+          {
+            "dataPontuacao": null,
+            "descricao": "Pontos Ganhos",
+            "id": 1,
+            "indice": 1,
+            "pontos": 2063
+          },
+		  {
+            "dataPontuacao": null,
+            "descricao": "Pontos Resgatados",
+            "id": 2,
+            "indice": 2,
+            "pontos": 4530
+          },
+		  {
+            "dataPontuacao": null,
+            "descricao": "Saldo Anterior",
+            "id": 3,
+            "indice": -1,
+            "pontos": 3360
+          },
+		  {
+            "dataPontuacao": null,
+            "descricao": "Pontos a Expirar até 31/12/2019",
+            "id": 3,
+            "indice": 3,
+            "pontos": 240
+          }
+        ]
+}
+]

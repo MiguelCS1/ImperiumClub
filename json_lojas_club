@@ -1,0 +1,35 @@
+[
+          {
+            "bairro": "Centro",
+            "cidade": "Ribeirão Preto",
+            "endereco": "Av. Jerônimo Gonçalves",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/ic_logo_1.png?alt=media&token=f9010c29-8441-468b-9604-be99ec0534b9",
+            "numero": "640",
+            "razaoSocial": "Loja 3",
+            "telefone": "(16) 3660-1678",
+            "uf": "SP",
+            "id": 3
+          },
+          {
+            "bairro": "Jardim Mosteiro",
+            "cidade": "Ribeirão Preto",
+            "endereco": "Rua Capitão Salomão",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/ic_logo_2.png?alt=media&token=0f0d7336-8250-4dca-8119-0abee3a5fcce",
+            "numero": "2133",
+            "razaoSocial": "Loja 2",
+            "telefone": "(16) 3761-1295",
+            "uf": "SP",
+            "id": 2
+          },
+		  {
+            "bairro": "Ribeirânia",
+            "cidade": "Perecível",
+            "endereco": "Av. Pres. Kennedy",
+            "fotoUrl": "https://firebasestorage.googleapis.com/v0/b/imperium-club.appspot.com/o/ic_logo_3.png?alt=media&token=774c8f48-2632-4b02-b5f1-5018bb4317eb",
+            "numero": "1500",
+            "razaoSocial": "Loja 1",
+            "telefone": "(16) 3760-0987",
+            "uf": "SP",
+            "id": 1
+          }
+        ]

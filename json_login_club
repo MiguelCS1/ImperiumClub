@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "data": {
+    "result": {
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiNDE5NWIyNi1kYTQxLTRmZTQtYmExOS0zZjY5OGVlM2IzNDMiLCJ1bmlxdWVfbmFtZSI6IjY2ODY3NzE3MDgwIiwiZW1haWwiOiJtaWd1ZWwuc2lsdmFAaW1wZXJpdW1zb2x1Y29lcy5jb20uYnIiLCJuYW1laWQiOiIyNTQwMiIsImp0aSI6Ijg0ZGFjZWI2LTA1ZGItNDYxYy1hNDk4LTM0ODE0NzcxNjhjMSIsImlhdCI6MTU3MzIxMTM5MiwiYmVhcmVyIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnpkV0lpT2lJeU5UUXdNaUlzSW5WdWFYRjFaVjl1WVcxbElqb2lOalk0TmpjM01UY3dPREFpTENKcWRHa2lPaUppWXpVMU1ERmlaQzAzTVRrekxUUmtOall0T1dVNU55MWpOVFZoWW1NeFpXRTNaVGtpTENKcFlYUWlPakUxTnpNeU1URXpPVElzSW5KdmJHVWlPaUpEYkdsbGJuUmxJaXdpYm1KbUlqb3hOVGN6TWpFd05Ea3lMQ0psZUhBaU9qRTJNRFEzTkRjek9USXNJbWx6Y3lJNklrbHRjR1Z5YVhWdFEyeDFZbFJ2YTJWdVUyVnlkbVZ5SWl3aVlYVmtJam9pYUhSMGNEb3ZMekV5Tnk0d0xqQXVNVG80TURnMkluMC4wWUN5bkYzVWoxUk4yZDZVMmxlMDNxT1lQRHFhdDVTelJ2TFRvWXJTWHRjIiwicm9sZSI6IkNsaWVudGUiLCJuYmYiOjE1NzMyMTA3OTIsImV4cCI6MTYwNDc0NzM5MiwiaXNzIjoiSW1wZXJpdW1DbHViVG9rZW5TZXJ2ZXIiLCJhdWQiOiJodHRwOi8vMTkyLjE2OC4xLjY1Ojg4ODgifQ.aW8lR9tjDqNm6Bi-OmIDUFbklPHh8SJ9s9veBDXWDFE",
+      "expires_in": "2020-11-07T11:09:52.2848529Z",
+      "user": {
+        "id": "b4195b26-da41-4fe4-ba19-3f698ee3b343",
+        "codigo": 25402,
+        "nome": "Miguel CS",
+        "cpfCnpj": "66867717080",
+        "rg": "56.678.688-6",
+        "dataNascimento": "1991-04-26T00:00:00Z",
+        "genero": 1,
+        "endereco": {
+          "logradouro": "Rua Rua",
+          "numero": "555",
+          "complemento": "Sala 2207",
+          "bairro": "Nova Ribeirânia",
+          "cep": "14096-730",
+          "cidade": "Ribeirão Preto",
+          "codigoIbge": 3543402,
+          "estado": "SP"
+        },
+        "email": "miguel.silva@imperiumsolucoes.com.br",
+        "telefone": "",
+        "celular": "",
+        "claims": [
+          {
+            "type": "sub",
+            "value": "b4195b26-da41-4fe4-ba19-3f698ee3b343"
+          },
+          {
+            "type": "unique_name",
+            "value": "66867717080"
+          },
+          {
+            "type": "email",
+            "value": "miguel.silva@imperiumsolucoes.com.br"
+          },
+          {
+            "type": "nameid",
+            "value": "25402"
+          },
+          {
+            "type": "jti",
+            "value": "84daceb6-05db-461c-a498-3481477168c1"
+          },
+          {
+            "type": "iat",
+            "value": "1573211392"
+          },
+          {
+            "type": "bearer",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyNTQwMiIsInVuaXF1ZV9uYW1lIjoiNjY4Njc3MTcwODAiLCJqdGkiOiJiYzU1MDFiZC03MTkzLTRkNjYtOWU5Ny1jNTVhYmMxZWE3ZTkiLCJpYXQiOjE1NzMyMTEzOTIsInJvbGUiOiJDbGllbnRlIiwibmJmIjoxNTczMjEwNDkyLCJleHAiOjE2MDQ3NDczOTIsImlzcyI6IkltcGVyaXVtQ2x1YlRva2VuU2VydmVyIiwiYXVkIjoiaHR0cDovLzEyNy4wLjAuMTo4MDg2In0.0YCynF3Uj1RN2d6U2le03qOYPDqat5SzRvLToYrSXtc"
+          },
+          {
+            "type": "role",
+            "value": "Cliente"
+          }
+        ]
+      }
+    }
+  }
+}

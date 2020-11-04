@@ -1,0 +1,46 @@
+[
+          {
+            "descricao": "Perecível",
+            "id": 10
+          },
+          {
+            "descricao": "Açougue",
+            "id": 3
+          },
+		  {
+            "descricao": "Adega",
+            "id": 2
+          },
+		  {
+            "descricao": "Matinais",
+            "id": 7 
+          },
+		  {
+            "descricao": "Feirinha",
+            "id": 5
+          },
+		  {
+            "descricao": "Cereais",
+            "id": 6
+          },
+		  {
+            "descricao": "Rotisseria",
+            "id": 9
+          },
+		  {
+            "descricao": "Perfumaria",
+            "id": 1
+          },
+		  {
+            "descricao": "Padaria",
+            "id": 4
+          },
+		  {
+            "descricao": "Seca",
+            "id": 11
+          },
+		  {
+            "descricao": "Bebidas",
+            "id": 8
+          }
+        ]
