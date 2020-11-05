@@ -176,14 +176,14 @@
             "preco_promocao": 20.5 
           },
 		  {
-            "descricao": "WHISKY BUCHANAN S 1L"
-            "descricao_resumida": "WHISKY BUCHANANS 1L"
+            "descricao": "WHISKY BUCHANAN S 1L",
+            "descricao_resumida": "WHISKY BUCHANANS 1L",
             "favorito": false,
-            "foto_url": "https://images-americanas.b2w.io/produtos/01/00/img/7969/6/7969688_1GG.jpg"
+            "foto_url": "https://images-americanas.b2w.io/produtos/01/00/img/7969/6/7969688_1GG.jpg",
             "grupo_id": 2,
             "id": 8141,
 			"info": "",
-            "preco": 199.8
+            "preco": 199.8,
             "preco_promocao": 180.1 
           },
 		  {
