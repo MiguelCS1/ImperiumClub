@@ -1,31 +1,31 @@
 [
 	{
-  "descricao": "Ofertas do Clube",
-  "id": 1,
-        "itens": [
-          {
-            "descricao": "ARROZ PANELA DE FERRO 5kg TIPO 1",
-            "descricao_resumida": "ARROZ PANELA FERRO 5",
-            "favorito": false,
-            "foto_url": "https://pierimonline.com.br/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/img_base/prodid32858/2308201713303932858.jpg",
-            "grupo_id": 6,
-            "id": 26860,
-            "info": "",
-            "preco": 13.9,
-            "preco_promocao": 11.45
-          },
-          {
-            "descricao": "LEITE CONDENSADO PIRACANJUBA 395G TP",
-            "descricao_resumida": "L.COND.PIRACAN.395G",
-            "favorito": false,
-            "foto_url": "https://www.concordepr.com.br/shop/media/catalog/product/cache/1/image/e55b6bc748e08d98853cdb0297a71fbc/6/7/6784-fornecedor-direita-leite-condensado-piracanjuba-395g.png",
-            "grupo_id": 7,
-            "id": 28638,
-			"info": "",
-            "preco": 3.29,
-            "preco_promocao": 2.79
-          },
-		  {
+  		"descricao": "Ofertas do Clube",
+  		"id": 1,
+        	"itens": [
+          		 {
+            				"descricao": "ARROZ PANELA DE FERRO 5kg TIPO 1",
+            				"descricao_resumida": "ARROZ PANELA FERRO 5",
+            				"favorito": false,
+            				"foto_url": "https://pierimonline.com.br/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/img_base/prodid32858/2308201713303932858.jpg",
+            				"grupo_id": 6,
+            				"id": 26860,
+            				"info": "",
+            				"preco": 13.9,
+            				"preco_promocao": 11.45
+         		 },
+          		 {
+            				"descricao": "LEITE CONDENSADO PIRACANJUBA 395G TP",
+            				"descricao_resumida": "L.COND.PIRACAN.395G",
+            				"favorito": false,
+            				"foto_url": "https://www.concordepr.com.br/shop/media/catalog/product/cache/1/image/e55b6bc748e08d98853cdb0297a71fbc/6/7/6784-fornecedor-direita-leite-condensado-piracanjuba-395g.png",
+            				"grupo_id": 7,
+            				"id": 28638,
+	    				"info": "",
+            				"preco": 3.29,
+            				"preco_promocao": 2.79
+         	        },
+		  	{
             "descricao": "L-REFRI.COCA COLA 2LT",
             "descricao_resumida": "L-REFRI.COCA COLA 2LT",
             "favorito": false,
@@ -56,7 +56,7 @@
             "id": 12485,
 			"info": "",
             "preco": 6.79,
-            "preco_promocao": 5.49,
+            "preco_promocao": 5.49
           }
         ]
 },
