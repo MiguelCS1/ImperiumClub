@@ -1,0 +1,233 @@
+[
+    {
+        "grupo": "Adega",
+        "produtos": [
+            {
+                "id": "c48e7ef4-3fe8-4bcc-a6ed-81c0efa7040f",
+                "descricao": "ENERGETICO RED BULL 250ML",
+                "ean": "7891000100103",
+                "linkImagem": "https://images-shoptime.b2w.io/produtos/01/00/sku/16006/2/16006271_1GG.jpg",
+                "precoVenda": 8.49,
+                "precoPromocional": 7.99
+            },
+            {
+                "id": "c2c30e65-e0d0-4009-b289-352cf7a9ee7e",
+                "descricao": "VINHO SANTA FELICidADE DIV.720ML",
+                "ean": "7891000100105",
+                "linkImagem": "https://http2.mlstatic.com/D_NQ_NP_717030-MLB32662411030_102019-V.jpg",
+                "precoVenda": 9.29,
+                "precoPromocional": null
+            },
+            {
+                "id": "61015ef9-4fec-43cf-a1f4-eff1532bd1bb",
+                "descricao": "VINHO BARON D ARIGNAC 750ML ROUGE MOELLEUX",
+                "ean": "7891000100107",
+                "linkImagem": "https://www.vinhobr.com.br/produtos/25365_1.jpg",
+                "precoVenda": 17.49,
+                "precoPromocional": 16.00
+            },
+			{
+                "id": "61535ef9-4fec-43cf-a1f4-eff1532bd1bb",
+                "descricao": "VODKA SKARLOFF ICE LIMAO 275ML",
+                "ean": "7891080100107",
+                "linkImagem": "https://img.sitemercado.com.br/produtos/8082a3bb7171205fe62045dc17d921f21393d5c062bb2641f3cfffd90002f334_full.jpg",
+                "precoVenda": 2.85,
+                "precoPromocional": 2.05
+            },
+			{
+                "id": "61215ef9-4fec-43cf-a1f4-eff1532bd1bb",
+                "descricao": "WHISKY BUCHANAN S 1L",
+                "ean": "7891000109107",
+                "linkImagem": "https://images-americanas.b2w.io/produtos/01/00/img/7969/6/7969688_1GG.jpg",
+                "precoVenda": 199.8,
+                "precoPromocional": 180.1
+            }
+        ],
+        "verMais": true
+    },
+    {
+        "grupo": "Açougue",
+        "produtos": [
+            {
+                "id": "34b679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BOVINO PALETA kg",
+                "ean": "7891600100103",
+                "linkImagem": "https://ibassets.com.br/ib.item.image.big/b-e7ffbbeb3b2f4f8581a779554e95f382.jpeg",
+                "precoVenda": 16.90,
+                "precoPromocional": 15.70
+            },
+			{
+                "id": "3bb679cf-78aa-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "ESPETO DE CORACAO DE FRANGO kg",
+                "ean": "7891005100103",
+                "linkImagem": "https://apucarana.cidadecancao.com/media/catalog/product/cache/1/image/420x565/9df78eab33525d08d6e5fb8d27136e95/e/s/espetinho_scc_coracao_frango_temperada_resfriada_kg_61612.jpg.jpg",
+                "precoVenda": 32.9,
+                "precoPromocional": null
+            },
+			{
+                "id": "3bb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BOVINO STROGONOFF kg",
+                "ean": "7891400100103",
+                "linkImagem": "https://www.makinbrasil.com.br/uploads/_produtos/1ba0c0878cf200f7b912bd361a919b5e.jpg",
+                "precoVenda": 30.9,
+                "precoPromocional": null
+            },
+			{
+                "id": "3ab679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BOVINO COSTELA kg",
+                "ean": "7891300100103",
+                "linkImagem": "https://muffatosupermercados.vteximg.com.br/arquivos/ids/241477-400-400/0000000095488.jpg",
+                "precoVenda": 12.9,
+                "precoPromocional": null
+            },
+			{
+                "id": "3cb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BOVINO PONTA DE ALCATRA kg",
+                "ean": "7891200100103",
+                "linkImagem": "https://coopsp.vteximg.com.br/arquivos/ids/184157-604-604/5850.jpg",
+                "precoVenda": 22.9,
+                "precoPromocional": 20.5
+            },
+			{
+                "id": "3db679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BOVINO QUARTO TRASEIRO C OSSO kg",
+                "ean": "7891100100103",
+                "linkImagem": "https://casafiesta.fbitsstatic.net/img/p/alcatra-bovina-miolo-pedaco-kg-63460/230318.jpg",
+                "precoVenda": 11.85,
+                "precoPromocional": null
+            },
+			{
+                "id": "3eb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BOV.PICANHA kg B.ANGUS",
+                "ean": "7891000100101",
+                "linkImagem": "https://statics.angeloni.com.br/super/files/produtos/3197699/3197699_1_medium.jpg",
+                "precoVenda": 88.9,
+                "precoPromocional": null
+            },
+			{
+                "id": "3fb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BLANQUET DE PERU SADIA LIGHT kg",
+                "ean": "7891000100102",
+                "linkImagem": "https://apucarana.cidadecancao.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/l/blanquet-peru-sadia-fatiado-grande-kg-39352.jpg.jpg",
+                "precoVenda": 39.9,
+                "precoPromocional": null
+            }
+        ],
+        "verMais": false
+    },
+    {
+        "grupo": "Padaria",
+        "produtos": [            
+			{
+                "id": "4bb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BISNAGA kg",
+                "ean": "7891000100133",
+                "linkImagem": "https://i.pinimg.com/originals/80/4d/d5/804dd578dbcd565e59d406e31676c1d0.jpg",
+                "precoVenda": 14.5,
+                "precoPromocional": null
+            },
+			{
+                "id": "34cb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "BISCOITO PADARIA kg",
+                "ean": "7891000100104",
+                "linkImagem": "https://cdn.irmaospatrocinio.com.br/img/p/1/5/6/8/4/9/156849-large_default.jpg",
+                "precoVenda": 23.9,
+                "precoPromocional": 21.9
+            }
+        ],
+        "verMais": false
+    },
+    {
+        "grupo": "Perfumaria",
+        "produtos": [            
+			{
+                "id": "32b679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "CR.DENTAL COLGATE 70G TOTAL 12 PROF.GUM HEALTH",
+                "ean": "7891000100105",
+                "linkImagem": "https://www.farmagora.com.br/BACKOFFICE/Uploads/Produto/Ampliada/55832.jpg",
+                "precoVenda": 6.79,
+                "precoPromocional": 5.95
+            },
+			{
+                "id": "32a679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "GEL FIXADOR MEGAFIX 500G",
+                "ean": "7891000100106",
+                "linkImagem": "https://images-americanas.b2w.io/produtos/01/00/sku/42715/6/42715678_1SZ.jpg",
+                "precoVenda": 5.8,
+                "precoPromocional": null
+            },
+			{
+                "id": "3a8679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "SABONETE TRICOFACIL 2L DIVERSOS",
+                "ean": "7891000100107",
+                "linkImagem": "https://static.carrefour.com.br/medias/sys_master/images/images/h65/h4c/h00/h00/14971908915230.jpg",
+                "precoVenda": 13.65,
+                "precoPromocional": null
+            }
+        ],
+        "verMais": true
+    },
+    {
+        "grupo": "Perfumaria",
+        "produtos": [            
+			{
+                "id": "9ab679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "UVA NIAGARA kg",
+                "ean": "7891000100108",
+                "linkImagem":"https://statics.angeloni.com.br/super/files/produtos/223700/223700_1_zoom.jpg",
+                "precoVenda": 9.69,
+                "precoPromocional": null
+            },
+			{
+                "id": "9bb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "MELAO kg",
+                "ean": "7891000100109",
+                "linkImagem": "https://images.zonasul.com.br/imagem1000X1000/2016229_2282a.jpg",
+                "precoVenda": 4.29,
+                "precoPromocional": null
+            },
+			{
+                "id": "9cb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao":  "LIMA DA PERSIA kg",
+                "ean": "7891000100703",
+                "linkImagem": "https://static-images.ifood.com.br/shop/fotos/lima-da-persia-1-0-kg-52230-1558469169031.jpg",
+                "precoVenda": 4.99,
+                "precoPromocional": 4.49
+            },
+			{
+                "id": "9db679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "MELANCIA BABY kg",
+                "ean": "7891000100803",
+                "linkImagem": "https://redecompras-img.azureedge.net/product/4178-melancia-baby-ssemente-kg-g.jpg",
+                "precoVenda": 7.99,
+                "precoPromocional": 6.49
+            },
+			{
+                "id": "9eb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "MANDIOCA kg",
+                "ean": "7891000100903",
+                "linkImagem": "https://supercatalaoonline.com.br/uploads/images/thumbs/mandioca-100-gr-01-09-2018-12-54-870-270.png",
+                "precoVenda": 2.49,
+                "precoPromocional": null
+            },
+			{
+                "id": "9fb679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "MANGA TOMMY kg",
+                "ean": "7891000100503",
+                "linkImagem": "https://muffatosupermercados.vteximg.com.br/arquivos/ids/246518-400-400/0000000001168-.jpg",
+                "precoVenda": 3.99,
+                "precoPromocional": null
+            },
+			{
+                "id": "3ac679cf-7e0a-4c5d-ac6a-762ee7b2cf16",
+                "descricao": "NECTARINA NACIONAL kg",
+                "ean": "7891000100303",
+                "linkImagem": "https://ibassets.com.br/ib.item.image.big/b-4ccae23e22054dc7a187ec29571112a1.jpeg",
+                "precoVenda": 5.65,
+                "precoPromocional": null
+            }
+        ],
+        "verMais": true
+    }
+]
+
